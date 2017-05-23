@@ -1,0 +1,1 @@
+This is part of my assignment to illustrate my GitHub understanding for my WebFundamentals course through Coding Dojo.
